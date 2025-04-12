@@ -13,5 +13,9 @@ public class EurekaServerApplication {
 		
 		System.out.println("Eureka server is up and running .........!");
 	}
-
+//new task 
+public void tests()
+{
+//new
+}
 }
