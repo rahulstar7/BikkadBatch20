@@ -10,7 +10,11 @@ public class EurekaServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServerApplication.class, args);
-		
+		//old task
+		System.out.println("Eureka server is up and running .........!");
+
+		System.out.println("Eureka server is up and running .........!");
+		System.out.println("Eureka server is up and running .........!");
 		System.out.println("Eureka server is up and running .........!");
 	}
 //new task 
